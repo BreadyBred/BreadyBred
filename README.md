@@ -47,8 +47,8 @@
 
 ## 🌐 Socials:
 
-<div style='display: flex;flex-wrap:wrap; gap:5px;'>
+<p align='center'>
   <a href="https://linkedin.com/in/romain-gerard"><img src="https://img.shields.io/badge/LinkedIn-273849?style=for-the-badge&logo=linkedin&logoColor=41b883" alt="LinkedIn"></a>
   <a href="mailto:gerarromain@gmail.com"><img src="https://img.shields.io/badge/gerarromain@gmail.com-273849?style=for-the-badge&logo=gmail&logoColor=41b883" alt="Email"></a>
   <a href="https://romain-gerard.com"><img src="https://img.shields.io/badge/My%20Portfolio-273849?style=for-the-badge" alt="Portfolio"></a>
-</div>
+</p>
