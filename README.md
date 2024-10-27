@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/React-%23273849?style=for-the-badge&logo=React&logoColor=41b883" alt="React">
   <img src="https://img.shields.io/badge/NextJS-%23273849?style=for-the-badge&logo=Next.Js&logoColor=41b883" alt="NextJS">
   <img src="https://img.shields.io/badge/Vite-%23273849?style=for-the-badge&logo=Vite&logoColor=41b883" alt="Vite">
+    <br>
   <img src="https://img.shields.io/badge/PHP-%23273849?style=for-the-badge&logo=PHP&logoColor=41b883" alt="PHP">
   <img src="https://img.shields.io/badge/CodeIgniter-%23273849?style=for-the-badge&logo=CodeIgniter&logoColor=41b883" alt="CodeIgniter">
   <img src="https://img.shields.io/badge/Symfony-%23273849?style=for-the-badge&logo=Symfony&logoColor=41b883" alt="Symfony">
