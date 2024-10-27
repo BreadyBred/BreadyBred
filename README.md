@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Tailwind-%23273849?style=for-the-badge&logo=TailwindCSS&logoColor=41b883" alt="Tailwind">
   <img src="https://img.shields.io/badge/SASS-%23273849?style=for-the-badge&logo=SASS&logoColor=41b883" alt="SASS">
   <img src="https://img.shields.io/badge/LESS-%23273849?style=for-the-badge&logo=LESS&logoColor=41b883" alt="LESS">
+    <br>
   <img src="https://img.shields.io/badge/Javascript-%23273849?style=for-the-badge&logo=Javascript&logoColor=41b883" alt="Javascript">
   <img src="https://img.shields.io/badge/jQuery-%23273849?style=for-the-badge&logo=jQuery&logoColor=41b883" alt="jQuery">
   <img src="https://img.shields.io/badge/Typescript-%23273849?style=for-the-badge&logo=Typescript&logoColor=41b883" alt="Typescript">
