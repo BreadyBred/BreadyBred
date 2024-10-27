@@ -41,7 +41,7 @@
 
 # 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=BreadyBred&label=Profile%20Views&color=12&icon=2&pretty=true)]([https://visitcount.itsvg.in](https://romain-gerard.com/))
-<div style='display:flex;gap:100px'>
+<div style='display:flex'>
   <img src="https://github-readme-stats.vercel.app/api?username=BreadyBred&include_all_commits=true&count_private=true&theme=vue-dark&custom_title=My%20Activity" style="width: 45.5%;object-fit: cover;"/>
   <img src="https://streak-stats.demolab.com?user=BreadyBred&theme=vue-dark" alt="GitHub Streak" style="width: 50.5%;object-fit: cover;"/>
 </div>
