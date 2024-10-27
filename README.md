@@ -1,3 +1,9 @@
+# 👋 About Me:
+  - 👨‍💻 **23-year-old web developer** passionate about programming, with a Bachelor's degree in Technology specializing in web development.
+  - 🛠️ Skilled in **HTML, CSS, JavaScript, PHP**, with a preference for "from scratch" development.
+  - 🚀 Particularly interested in **PHP** and dynamic sites, with experience in **CodeIgniter**, **Symfony**, and **ReactJS**.
+  - 📈 Always curious and exploring new trends to blend work with passion.
+
 # 💻 Tech Stack:
 <p align='center'>
   <img src="https://img.shields.io/badge/HTML5-%23273849?style=for-the-badge&logo=HTML5&logoColor=41b883" alt="HTML5">
@@ -40,7 +46,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BreadyBred&theme=github-compact&from=2024-03-18&to=2024-06-01&hide_title=true" alt="Overall activity" style="width: 100%; border: 4.5px solid #000000; border-radius: 4.5px;"/>
 
-## 🌐 Socials:
+## 🌐 Links:
 
 <p align='center'>
   <a href="https://linkedin.com/in/romain-gerard"><img src="https://img.shields.io/badge/LinkedIn-273849?style=for-the-badge&logo=linkedin&logoColor=41b883" alt="LinkedIn"></a>
