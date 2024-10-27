@@ -41,12 +41,12 @@
 
 # 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=BreadyBred&label=Profile%20Views&color=12&icon=2&pretty=true)]([https://visitcount.itsvg.in](https://romain-gerard.com/))
-<div style="display: flex; width: 100%; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=M-U-C-K-A&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000" style="width: 46%; height: 100%; object-fit: cover;"/>
-    <img src="https://streak-stats.demolab.com?user=BreadyBred&theme=vue-dark" alt="GitHub Streak" style="width: 50%; height: 100%; object-fit: cover;"/>
+<div style='display:flex;gap:100px'>
+  <img src="https://github-readme-stats.vercel.app/api?username=BreadyBred&include_all_commits=true&count_private=true&theme=vue-dark&custom_title=My%20Activity" style="width: 45.5%;object-fit: cover;"/>
+  <img src="https://streak-stats.demolab.com?user=BreadyBred&theme=vue-dark" alt="GitHub Streak" style="width: 50.5%;object-fit: cover;"/>
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BreadyBred&theme=github-compact&from=2024-03-18&to=2024-06-01&hide_title=true" alt="Overall activity" style="width: 100%;"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BreadyBred&theme=github-compact&from=2024-03-18&to=2024-06-01&hide_title=true" alt="Overall activity" style="width: 100%; border: 4.5px solid #000000; border-radius: 4.5px;"/>
 
 ## 🌐 Links:
 
