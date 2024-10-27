@@ -21,17 +21,17 @@
   <img src="https://img.shields.io/badge/CodeIgniter-%23273849?style=for-the-badge&logo=CodeIgniter&logoColor=41b883" alt="CodeIgniter">
   <img src="https://img.shields.io/badge/Symfony-%23273849?style=for-the-badge&logo=Symfony&logoColor=41b883" alt="Symfony">
   <img src="https://img.shields.io/badge/MySQL-%23273849?style=for-the-badge&logo=MySQL&logoColor=41b883" alt="MySQL">
-    
+    <br>
   <img src="https://img.shields.io/badge/C-%23273849?style=for-the-badge&logo=C&logoColor=41b883" alt="C">
   <img src="https://img.shields.io/badge/Python-%23273849?style=for-the-badge&logo=Python&logoColor=41b883" alt="Python">
   <img src="https://img.shields.io/badge/Unity-%23273849?style=for-the-badge&logo=Unity&logoColor=41b883" alt="Unity">
   <img src="https://img.shields.io/badge/.NET-%23273849?style=for-the-badge&logo=.NET&logoColor=41b883" alt=".NET">
-    
+    <br>
   <img src="https://img.shields.io/badge/Wordpress-%23273849?style=for-the-badge&logo=Wordpress&logoColor=41b883" alt="Wordpress">
   <img src="https://img.shields.io/badge/Shopify-%23273849?style=for-the-badge&logo=Shopify&logoColor=41b883" alt="Shopify">
   <img src="https://img.shields.io/badge/Prestashop-%23273849?style=for-the-badge&logo=Prestashop&logoColor=41b883" alt="Prestashop">
   <img src="https://img.shields.io/badge/Drupal-%23273849?style=for-the-badge&logo=Drupal&logoColor=41b883" alt="Drupal">
-   
+    <br>
   <img src="https://img.shields.io/badge/Git-%23273849?style=for-the-badge&logo=Git&logoColor=41b883" alt="Git">
   <img src="https://img.shields.io/badge/Github-%23273849?style=for-the-badge&logo=Github&logoColor=41b883" alt="Github">
   <img src="https://img.shields.io/badge/Figma-%23273849?style=for-the-badge&logo=Figma&logoColor=41b883" alt="Figma">
