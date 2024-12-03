@@ -1,8 +1,8 @@
 # 👋 About Me:
-	- 👨‍💻 **23-year-old web developer** passionate about programming, with a Bachelor's degree in Technology specializing in web development.
-	- 🛠️ Skilled in **HTML, CSS, JavaScript, PHP**, with a preference for "from scratch" development.
-	- 🚀 Particularly interested in **PHP** and dynamic sites, with experience in **CodeIgniter**, **Symfony**, and **ReactJS**.
-	- 📈 Always curious and exploring new trends to blend work with passion.
+- 👨‍💻 **23-year-old web developer** passionate about programming, with a Bachelor's degree in Technology specializing in web development.
+- 🛠️ Skilled in **HTML, CSS, JavaScript, PHP**, with a preference for "from scratch" development.
+- 🚀 Particularly interested in **PHP** and dynamic sites, with experience in **CodeIgniter**, **Symfony**, and **ReactJS**.
+- 📈 Always curious and exploring new trends to blend work with passion.
 
 # 💻 Tech Stack:
 <p align="center">
