@@ -44,16 +44,8 @@
 
 # 🌐 Links:
 <p align="center">
-	<a href="https://linkedin.com/in/romain-gerard" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-273849?style=for-the-badge&logo=linkedin&logoColor=41b883" alt="LinkedIn">
-	</a>
-	<a href="https://www.codewars.com/users/BreadyBred/stats" target="_blank">
-		<img src="https://img.shields.io/badge/codewars-%23273849?style=for-the-badge&logo=codewars&logoColor=41b883" alt="Codewars">
-	</a>
-	<a href="mailto:gerarromain@gmail.com" target="_blank">
-		<img src="https://img.shields.io/badge/gerarromain@gmail.com-273849?style=for-the-badge&logo=gmail&logoColor=41b883" alt="Email">
-	</a>
-	<a href="https://romain-gerard.com" target="_blank">
-		<img src="https://img.shields.io/badge/My%20Portfolio-273849?style=for-the-badge" alt="Portfolio">
-	</a>
+	<a href="https://linkedin.com/in/romain-gerard" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-273849?style=for-the-badge&logo=linkedin&logoColor=41b883" alt="LinkedIn"></a>
+	<a href="https://www.codewars.com/users/BreadyBred/stats" target="_blank"><img src="https://img.shields.io/badge/codewars-%23273849?style=for-the-badge&logo=codewars&logoColor=41b883" alt="Codewars"></a>
+	<a href="mailto:gerarromain@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gerarromain@gmail.com-273849?style=for-the-badge&logo=gmail&logoColor=41b883" alt="Email"></a>
+	<a href="https://romain-gerard.com" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-273849?style=for-the-badge" alt="Portfolio"></a>
 </p>
