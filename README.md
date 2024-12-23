@@ -28,6 +28,8 @@
 	<img src="https://img.shields.io/badge/Python-%23273849?style=for-the-badge&logo=Python&logoColor=41b883" alt="Python">
 	<img src="https://img.shields.io/badge/Unity-%23273849?style=for-the-badge&logo=Unity&logoColor=41b883" alt="Unity">
 	<img src="https://img.shields.io/badge/.NET-%23273849?style=for-the-badge&logo=.NET&logoColor=41b883" alt=".NET">
+	<img src="https://img.shields.io/badge/Bash-%23273849?style=for-the-badge&logo=gnubash&logoColor=41b883" alt="Bash">
+	<img src="https://img.shields.io/badge/Yaml-%23273849?style=for-the-badge&logo=yaml&logoColor=41b883" alt="Bash">
 		<br>
 	<img src="https://img.shields.io/badge/Wordpress-%23273849?style=for-the-badge&logo=Wordpress&logoColor=41b883" alt="Wordpress">
 	<img src="https://img.shields.io/badge/Shopify-%23273849?style=for-the-badge&logo=Shopify&logoColor=41b883" alt="Shopify">
