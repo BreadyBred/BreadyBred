@@ -38,7 +38,6 @@
 </p>
 
 # 📊 GitHub Stats:
-<img src="https://visitcount.itsvg.in/api?id=BreadyBred&label=Profile%20Views&color=12&icon=2&pretty=true" alt="Profile views">
 <img src="https://streak-stats.demolab.com?user=BreadyBred&theme=vue-dark" alt="GitHub Streak">
 <img src="https://github-readme-stats.vercel.app/api?username=BreadyBred&theme=vue-dark&custom_title=My Activity&show=prs_merged_percentage&hide=stars,issues,contribs&show_icons=true" alt="Github stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadyBred&theme=vue-dark&layout=compact" alt="Github stats">
