@@ -37,6 +37,9 @@
 	<img src="https://img.shields.io/badge/Drupal-%23151515?style=for-the-badge&logo=Drupal&logoColor=9f9f9f" alt="Drupal">
 </p>
 
+# 🏆 Github Stats:
+![](https://github-profile-trophy.vercel.app/?username=BreadyBred&theme=dark_lover&rank=S,AAA,AA,A,B&no-frame=true)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BreadyBred&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BreadyBred&theme=dark&hide_border=true)<br/>
